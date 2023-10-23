@@ -6,7 +6,10 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "10-ui",
+  title: {
+    default: '10-ui',
+    template: "%s | 10-ui"
+  },
   description: 'simple admin tool for All developers',
   icons: [{rel: 'icon', url: Favicon.src }],
 }
