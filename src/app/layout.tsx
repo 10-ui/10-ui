@@ -1,9 +1,15 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import { Signika_Negative } from 'next/font/google'
 import Favicon from '../../public/imgs/favicon/ui.ico'
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
+const SignikaNegative = Signika_Negative({
+  weight: "400",
+  subsets: ["latin"],
+  variable: "--font-SignikaNegative",
+});
 
 export const metadata: Metadata = {
   title: {
@@ -21,7 +27,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
-      <body className={inter.className}>{children}</body>
+      <body className={`${inter.className} ${SignikaNegative.className}`}>{children}</body>
     </html>
   )
 }
