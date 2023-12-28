@@ -11,30 +11,7 @@
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=10-ui&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<style> \* {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-}
-.container {
-display: grid;
-margin-left: 16px;
-}
-h3,
-.group {
-margin-bottom: 15px;
-}
-.images {
-display: flex;
-gap: 15px;
-height: 45px;
-}
-img {
-width: 45px;
-}
-</style>
-
-<div class="container">
+ <div class="container">
       <section class="group">
         <h3>Standard</h3>
         <div class="images">
@@ -45,7 +22,7 @@ width: 45px;
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg"
               alt="Html5"
-          /></a>
+          width="45" height="45"/></a>
           <a
             href="https://developer.mozilla.org/ja/docs/Web/CSS/Reference"
             target="_blank"
@@ -53,14 +30,14 @@ width: 45px;
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg"
               alt="Css3"
-          /></a>
+          width="45" height="45"/></a>
           <a
             href="https://developer.mozilla.org/ja/docs/Web/JavaScript"
             target="_blank"
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg"
-              alt="Javascript" />
+              alt="Javascript" width="45" height="45"/>
           </a>
         </div>
       </section>
@@ -74,7 +51,7 @@ width: 45px;
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg"
               alt="Tailwindcss"
-          /></a>
+          width="45" height="45"/></a>
           <a
             href="https://sass-lang.com/"
             target="_blank"
@@ -82,7 +59,7 @@ width: 45px;
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg"
               alt="Sass"
-          /></a>
+          width="45" height="45"/></a>
         </div>
       </section>
       <section class="group">
@@ -94,7 +71,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg"
-              alt="React" />
+              alt="React" width="45" height="45"/>
           </a>
           <a
             href="https://nextjs.org/"
@@ -102,7 +79,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg"
-              alt="Nextjs" />
+              alt="Nextjs" width="45" height="45"/>
           </a>
           <a
             href="https://www.typescriptlang.org/"
@@ -110,7 +87,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-plain.svg"
-              alt="Typescript" />
+              alt="Typescript" width="45" height="45"/>
           </a>
           <a
             href="https://trpc.io/"
@@ -118,7 +95,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://trpc.io/img/logo.svg"
-              alt="tRPC" />
+              alt="tRPC" width="45" height="45"/>
           </a>
           <a
             href="https://www.prisma.io"
@@ -126,12 +103,12 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.prisma.io&size=128"
-              alt="Prisma" />
+              alt="Prisma" width="45" height="45"/>
           </a>
           <a href="https://next-auth.js.org/"
             ><img
               src="https://raw.githubusercontent.com/nextauthjs/next-auth/main/docs/static/img/logo/logo.png"
-              alt="NextAuthjs" />
+              alt="NextAuthjs" width="45" height="45"/>
           </a>
           <a
             href="https://threejs.org/"
@@ -139,7 +116,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/threejs/threejs-original.svg"
-              alt="Threejs" />
+              alt="Threejs" width="45" height="45"/>
           </a>
         </div>
       </section>
@@ -152,7 +129,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/chrome/chrome-original.svg"
-              alt="Chrome" />
+              alt="Chrome" width="45" height="45"/>
           </a>
           <a
             href="https://code.visualstudio.com/"
@@ -161,7 +138,7 @@ width: 45px;
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg"
               alt="vscode"
-          /></a>
+          width="45" height="45"/></a>
           <a
             href="https://www.figma.com/ja/"
             target="_blank"
@@ -169,14 +146,14 @@ width: 45px;
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg"
               alt="Figma"
-          /></a>
+          width="45" height="45"/></a>
           <a
             href="https://www.adobe.com/jp/products/photoshop.html"
             target="_blank"
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-plain.svg"
-              alt="Photoshop" />
+              alt="Photoshop" width="45" height="45"/>
           </a>
           <a
             href="https://www.adobe.com/jp/products/illustrator.html"
@@ -184,7 +161,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/illustrator/illustrator-plain.svg"
-              alt="Illustrator" />
+              alt="Illustrator" width="45" height="45"/>
           </a>
           <a
             href="https://slack.com/intl/ja-jp"
@@ -192,7 +169,7 @@ width: 45px;
             rel="noopener noreferrer"
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/slack/slack-original.svg"
-              alt="Slack" />
+              alt="Slack" width="45" height="45"/>
           </a>
         </div>
       </section>
