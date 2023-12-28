@@ -13,7 +13,7 @@
 
  <div class="container">
       <section class="group">
-        <h3>Standard</h3>
+        <h3>Front</h3>
         <div class="images">
           <a
             href="https://html.spec.whatwg.org/"
@@ -63,7 +63,7 @@
         </div>
       </section>
       <section class="group">
-        <h3>Challenge</h3>
+        <h3>Try include Server</h3>
         <div class="images">
           <a
             href="https://react.dev/"
