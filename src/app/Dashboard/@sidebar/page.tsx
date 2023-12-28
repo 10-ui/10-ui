@@ -8,7 +8,7 @@ export default function Sidebar() {
         <h1 className="text-3xl font-bold text-center py-12">Dashboard</h1>
         <ul className="list-none block mx-auto text-center pt-[11dvh]">
           <li className="py-5 border-t-2 border-gray-300 hover:font-bold text-lg">
-            <Link href="Dashboard/users">Users</Link>
+            <Link href="users">Users</Link>
           </li>
           <li className="py-5 border-t-2 border-gray-300 hover:font-bold text-lg">
             My Account
