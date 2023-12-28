@@ -2,7 +2,7 @@
 
 ### Hi, I'm 10-ui. Thank you watching my github!!!
 
-### I will be  fullstack developer!!
+### I will be fullstack developer!!
 
 ![アイコン画像](public/assets/top-cat.png)  
 お気に入りのアイコン画像です。[こちら](https://hiyokoyarou.com/icon-cat/)からダウンロードできます。
@@ -10,6 +10,29 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=10-ui)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=10-ui&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<style> \* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container {
+display: grid;
+margin-left: 16px;
+}
+h3,
+.group {
+margin-bottom: 15px;
+}
+.images {
+display: flex;
+gap: 15px;
+height: 45px;
+}
+img {
+width: 45px;
+}
+</style>
 
 <div class="container">
       <section class="group">
@@ -174,26 +197,3 @@
         </div>
       </section>
     </div>
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-      .container {
-        display: grid;
-        margin-left: 16px;
-      }
-      h3,
-      .group {
-        margin-bottom: 15px;
-      }
-      .images {
-        display: flex;
-        gap: 15px;
-        height: 45px;
-      }
-      img {
-        width: 45px;
-      }
-    </style>
