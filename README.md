@@ -118,6 +118,14 @@
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/threejs/threejs-original.svg"
               alt="Threejs" width="45" height="45"/>
           </a>
+          <a
+            href="https://www.postman.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><img
+              src="https://www.svgrepo.com/show/354202/postman-icon.svg"
+              alt="Postman" width="45" height="45"/>
+          </a>
         </div>
       </section>
       <section class="group">
