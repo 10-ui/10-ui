@@ -63,7 +63,7 @@
         </div>
       </section>
       <section class="group">
-        <h3>Try include Server</h3>
+        <h3>Try Server　Stack</h3>
         <div class="images">
           <a
             href="https://react.dev/"
