@@ -14,7 +14,7 @@
  <div class="container">
       <section class="group">
         <h3>Front</h3>
-        <div class="images">
+        <div class="images" style="height: 45px;">
           <a
             href="https://html.spec.whatwg.org/"
             target="_blank"
@@ -39,11 +39,19 @@
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg"
               alt="Javascript" width="45" height="45"/>
           </a>
+          <a
+            href="https://www.typescriptlang.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><img
+              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-plain.svg"
+              alt="Typescript" width="45" height="45"/>
+          </a>
         </div>
       </section>
       <section class="group">
         <h3>CSS Framework</h3>
-        <div class="images">
+        <div class="images" style="height: 45px;">
           <a
             href="https://tailwindcss.com/"
             target="_blank"
@@ -64,7 +72,7 @@
       </section>
       <section class="group">
         <h3>Try Server Stack</h3>
-        <div class="images">
+        <div class="images" style="height: 45px;">
           <a
             href="https://react.dev/"
             target="_blank"
@@ -80,14 +88,6 @@
             ><img
               src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg"
               alt="Nextjs" width="45" height="45"/>
-          </a>
-          <a
-            href="https://www.typescriptlang.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-            ><img
-              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-plain.svg"
-              alt="Typescript" width="45" height="45"/>
           </a>
           <a
             href="https://trpc.io/"
@@ -111,14 +111,6 @@
               alt="NextAuthjs" width="45" height="45"/>
           </a>
           <a
-            href="https://threejs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-            ><img
-              src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/threejs/threejs-original.svg"
-              alt="Threejs" width="45" height="45"/>
-          </a>
-          <a
             href="https://www.postman.com/"
             target="_blank"
             rel="noopener noreferrer"
@@ -130,7 +122,7 @@
       </section>
       <section class="group">
         <h3>Tools</h3>
-        <div class="images">
+        <div class="images" style="height: 45px;">
           <a
             href="https://www.google.com/intl/ja/chrome/"
             target="_blank"
