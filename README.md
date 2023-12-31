@@ -1,4 +1,4 @@
-# 10-ui (Sentaro Shinozaki)
+# 10-ui
 
 ### Hi, I'm 10-ui. Thank you watching my github!!!
 
