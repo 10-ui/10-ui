@@ -4,7 +4,7 @@
 
 ### I will be fullstack developer!!
 
-![アイコン画像](public/assets/top-cat.png)  
+![アイコン画像](prof_cat.png)  
 お気に入りのアイコン画像です。[こちら](https://hiyokoyarou.com/icon-cat/)からダウンロードできます。
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=10-ui)](https://github.com/ryo-ma/github-profile-trophy)
