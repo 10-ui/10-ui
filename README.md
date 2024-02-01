@@ -1,6 +1,6 @@
 # 10-ui
 
-### Hi, I'm 10-ui. Thank you watching my github!!!
+### Hi 👋, I'm 10-ui. Thank you watching my github!!!
 
 ### I will be fullstack developer!!
 
