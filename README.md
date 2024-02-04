@@ -48,8 +48,7 @@
               height="45" />
           </a>
         </div>
-      </section>
-
+      </section>  
 
 ![アイコン画像](prof_cat.png)  
 お気に入りのアイコン画像です。[こちら](https://hiyokoyarou.com/icon-cat/)からダウンロードできます。
