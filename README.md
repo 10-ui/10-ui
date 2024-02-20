@@ -1,10 +1,17 @@
-# Hi, I'm 10-ui 👋
+![](HelloWorld.png)
 
-### Typescript Developer
+# About Me
 
-[![MySkills](https://skillicons.dev/icons?i=nextjs,tailwind,supabase,prisma)](https://skillicons.dev)
+1. 🍀 I'm a web frontend developer from Japan
 
-![アイコン画像](prof_cat.png)  
-お気に入りのアイコン画像です。[こちら](https://hiyokoyarou.com/icon-cat/)からダウンロードできます。
+2. 💻My favorites are React, TypeScript, Supabase, Prisma
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=10-ui&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+3. 📘You can find my Zenn Blog [here](https://zenn.dev/10_ui)
+
+## My Status
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=10-ui&show_icons=true&theme=ambient_gradient&layout=compact)
+
+## Frameworks and Languages, Libraries.
+
+[![MySkills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,express,supabase,postgres,prisma)](https://skillicons.dev)
