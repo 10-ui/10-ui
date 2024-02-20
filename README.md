@@ -1,10 +1,8 @@
-# 10-ui
+# Hi, I'm 10-ui 👋
 
-**Typescript Developer**
+### Typescript Developer
 
 [![MySkills](https://skillicons.dev/icons?i=nextjs,tailwind,supabase,prisma)](https://skillicons.dev)
-
-
 
 ![アイコン画像](prof_cat.png)  
 お気に入りのアイコン画像です。[こちら](https://hiyokoyarou.com/icon-cat/)からダウンロードできます。
