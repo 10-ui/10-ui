@@ -47,6 +47,16 @@
               width="45"
               height="45" />
           </a>
+          <a
+            href="https://supabase.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><img
+              src="https://skillicons.dev/icons?i=prisma"
+              alt="Prisma"
+              width="45"
+              height="45" />
+          </a>
         </div>
       </section><br/>
 
