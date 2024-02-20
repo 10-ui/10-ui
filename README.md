@@ -1,6 +1,6 @@
 # 10-ui
 
-#### Typescript Developer ![ts](https://skillicons.dev/icons?i=ts)
+**Typescript Developer**
 
 [![MySkills](https://skillicons.dev/icons?i=nextjs,tailwind,supabase,prisma)](https://skillicons.dev)
 
