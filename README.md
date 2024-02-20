@@ -48,7 +48,7 @@
               height="45" />
           </a>
           <a
-            href="https://supabase.com/"
+            href="https://prisma.io/"
             target="_blank"
             rel="noopener noreferrer"
             ><img
