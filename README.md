@@ -1,11 +1,5 @@
 # 10-ui
 
-### Hi 👋, I'm 10-ui. Thank you watching my github!!!
-
-### I will be fullstack developer!!
-
-## Skills
-
 [![MySkills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,prisma)](https://skillicons.dev)
 
 
