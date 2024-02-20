@@ -1,6 +1,8 @@
 # 10-ui
 
-[![MySkills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,prisma)](https://skillicons.dev)
+#### Typescript Developer
+
+[![MySkills](https://skillicons.dev/icons?i=nextjs,tailwind,supabase,prisma)](https://skillicons.dev)
 
 
 
