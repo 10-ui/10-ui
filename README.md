@@ -14,4 +14,4 @@
 
 ## Frameworks and Languages, Libraries.
 
-[![MySkills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,express,supabase,postgres,prisma)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=ts,astro,nextjs,react,tailwind,express,supabase,postgres,prisma)](https://skillicons.dev)
